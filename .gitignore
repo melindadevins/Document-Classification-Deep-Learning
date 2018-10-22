@@ -92,8 +92,10 @@ ENV/
 ./image_classifier/data
 *.png
 temp/
+data/
 *.jpg
 .DS_Store
 Others/
 *.zip
 *.csv
+*.h5
